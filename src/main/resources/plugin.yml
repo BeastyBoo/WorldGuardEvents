@@ -1,0 +1,6 @@
+name: WorldGuardEvents
+version: ${project.version}
+main: com.github.beastyboo.worldguardevents.WorldGuardEventsPlugin
+depend: [ WorldGuard, WorldEdit ]
+authors: [ BeastyBoo, FrozenLegend ]
+description: A worldgaurdevents which supports legacy versions of WorldGuard.
